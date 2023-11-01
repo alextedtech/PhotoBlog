@@ -3,3 +3,10 @@ img{
     margin: 1.5%;
 }
 
+nav{
+    text-transform: uppercase;
+    border-bottom: solid lightgray 2px;
+    width: 30%;/*adding the same margin as img because */
+    margin-left: calc(10%/6);
+    padding: 20px 0;
+}
